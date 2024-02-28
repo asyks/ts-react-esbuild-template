@@ -4,7 +4,7 @@ const App: React.FC = () => {
   return (
     <div>
       <header>
-        Minimal React Template
+        Hello World!
       </header>
     </div>
   );
